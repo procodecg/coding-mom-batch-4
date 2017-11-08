@@ -1,0 +1,5 @@
+checked;
+1. login github 
+2. install n sign up gitkraken
+3. clone procodecg
+4. (add file helen.txt n push)
