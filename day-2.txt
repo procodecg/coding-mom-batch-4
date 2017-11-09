@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-1. helen-hadir
-2. vita-hadir
-=======
 1. helen-hadir
 2. Mili-hadir
 3. chika hadir
->>>>>>> master
+4. vita-hadir
