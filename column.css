@@ -18,7 +18,7 @@
 
 #tengah {
     width: 500px;
-    background-color: blue;
+    background-color: darkred;
     float: left;
     text-align: center;
     color: aqua;
@@ -29,9 +29,9 @@
 #kanan {
     width: auto;
     overflow: auto;
-    background-color: azure;
+    background-color: orangered;
     text-align: right;
-    color: red;
+    color: white;
     font-family: monospace;
     padding: 10px;
 }
