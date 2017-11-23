@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <select id='Selection' name='Selection'>
+            <option value=''>Select</option>
+            <option value='1'>user1</option>
+            <option value='2'>user2</option>
+            <option value='3'>user3</option>
+        </select>
+        <br>
+        <select id='Candidate' name='Candidate'>
+            <option value=''>Select</option>
+            <option value='1'>candidate1</option>
+            <option value='2'>candidate2</option>
+            <option value='3'>candidate3</option>
+        </select>  
+        <br>  
+        <input type='button' onclick='Validate()' value='select' />
+        <script>
+            function Validate()
+            {
+              if(document.getElementById('Selection').value == '' ||
+                 document.getElementById('Candidate').value == '' ||)                
+              {
+                alert('Please complete all selections');
+                return false;
+              }
+              return true;
+            }       
+        </script>
+    </body>
+</html>
