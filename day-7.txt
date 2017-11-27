@@ -1,4 +1,8 @@
 Mili hadir
 Rosi hadir
+<<<<<<< Updated upstream
 chika hadir
 
+=======
+Vita hadir
+>>>>>>> Stashed changes
