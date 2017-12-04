@@ -1,3 +1,7 @@
 1. chika hadir
 2. BR tidak hadir :)
+<<<<<<< HEAD
 3. Mili hadirin
+=======
+3. Helen hadir
+>>>>>>> master
