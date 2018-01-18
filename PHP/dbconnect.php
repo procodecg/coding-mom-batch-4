@@ -8,7 +8,7 @@ $username = "procodecg";
 // Database password
 $password = "procodecg";
 // Database name
-$dbname = "contoh";
+$dbname = "procodecg";
 
 ############## Make the mysql connection ###########
 $conn = new mysqli($servername, $username, $password, $dbname);
